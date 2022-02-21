@@ -26,6 +26,4 @@
   <a href = "mailto:contatoandressanapoles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andressa-n%C3%A1poles-de-oliveira-b458a5219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/andydeveloperr/andydeveloperr/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
