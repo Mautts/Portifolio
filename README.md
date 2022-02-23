@@ -1,8 +1,10 @@
  ### Olá, eu sou a Andressa Oliveira 👩‍💻
 
-- 🎮 Hoje é um bom dia paracomeçar um novo desafio.
+- 🎮 Hoje é um bom dia para começar um novo desafio.
 
 - 🌱 Atualmente estou aprendendo as principais linguagens para trabalhar como Dev Fullstack.
+
+- “Não é a linguagem de programação que define o programador, mas sim sua lógica."
 
 <div> 
 <img align="right" alt="andy-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/789426ba74eea0fc4fe047865c314c56.gif">
@@ -34,3 +36,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andydeveloperr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andydeveloperr&layout=compact&langs_count=7&theme=github_dark"/>
 </div><Br>
+
+  
