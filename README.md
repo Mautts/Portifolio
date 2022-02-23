@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estou aprendendo as principais linguagens para trabalhar como Dev Fullstack.
 
-- “Não é a linguagem de programação que define o programador, mas sim sua lógica."
+ “Não é a linguagem de programação que define o programador, mas sim sua lógica."
 
 <div> 
 <img align="right" alt="andy-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/789426ba74eea0fc4fe047865c314c56.gif">
