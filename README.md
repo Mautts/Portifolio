@@ -2,7 +2,7 @@
 
 - 🎮 Hoje é um bom dia para começar um novo desafio.
 
-- 🌱 Atualmente estou aprendendo as principais linguagens para trabalhar como Dev Fullstack.
+- 🌱 Atualmente estou aprendendo as principais linguagens para trabalhar como Fullstack.
 
  “Não é a linguagem de programação que define o programador, mas sim sua lógica."
 
