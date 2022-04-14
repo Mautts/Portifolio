@@ -1,8 +1,4 @@
- ### Olá, eu sou a Andressa  Nápoles 👩‍💻
-
-- 🎮 Hoje é um bom dia para começar um novo desafio.
-
-- 🌱 Atualmente aprendendo as principais linguagens para trabalhar como Fullstack.
+ ### Olá, eu sou a Andressa 👩‍💻
 
  “Não é a linguagem de programação que define o programador, mas sim sua lógica."
 
@@ -14,12 +10,9 @@
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="andy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="andy-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="andy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="andy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="andy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="andy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Andy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
  
 <div align="center"> <Br>
