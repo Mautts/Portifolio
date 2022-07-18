@@ -1,6 +1,5 @@
- ### Olá, eu sou a Andressa.
- Bem vindo ao meu perfil😊  <br>
- Sou estudante de programação e apaixonada por tecnologia👩‍💻<br>
+ ### Bem vindo ao meu perfil😊 
+ Eu sou a Andressa, estudante de programação e apaixonada por tecnologia👩‍💻<br>
 
  “Não é a linguagem de programação que define o programador, mas sim sua lógica."
  
