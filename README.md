@@ -1,8 +1,6 @@
- ### Bem vindo ao meu perfil😊 
- Eu sou a Andressa 👩‍💻<br>
-
- “A questão não é saber os códigos ou linhas de comando, é saber o que fazer com eles."
- 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sou+a+Andressa+👩‍💻;Bem+vindo+ao+meu+perfil!;" />
+</h1>
 <div> 
 <img align="right" alt="andy-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/789426ba74eea0fc4fe047865c314c56.gif">
 </div> 
@@ -24,11 +22,10 @@
 
 # ![snake gif](https://github.com/Mautts/Mautts/blob/output/github-contribution-grid-snake.gif)
 
-
  <div align="center"> 
    <a href="https://github.com/Mautts"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mautts&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautts&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mautts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautts&layout=compact&langs_count=7&theme=dark"/>
 </div><Br>
 
   
