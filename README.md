@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sou+a+Andressa+👩‍💻;Bem+vindo+ao+meu+perfil!;" />
+ Sou a Andressa, bem vindo ao meu perfil!
 </h1>
 <div> 
 <img align="right" alt="andy-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/789426ba74eea0fc4fe047865c314c56.gif">
